@@ -1,2 +1,2 @@
-# Ch-s-u-Brot
+# Chäs-u-Brot
 päckli sniffer in Rust
